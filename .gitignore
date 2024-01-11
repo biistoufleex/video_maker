@@ -1,2 +1,3 @@
 /.venv/
 /twitch/.env
+.idea/
